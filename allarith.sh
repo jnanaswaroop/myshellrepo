@@ -1,5 +1,5 @@
 #!/bin/bash
-echo Enter two numbers below --eben
+echo Enter the chnage
 echo Enter 1st number
 read a
 echo Enter 2nd number
