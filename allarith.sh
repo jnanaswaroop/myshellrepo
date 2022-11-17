@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Jnana Swaroop please Enter two numbers below:"
+echo Enter two numbers below --eben
 echo Enter 1st number
 read a
 echo Enter 2nd number
